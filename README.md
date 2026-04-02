@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I’m currently working on Python<br>👯 I’m looking to collaborate on Data Science<br>🤝 I’m looking for help with Deep Learning<br>🌱 I’m currently learning Python and it's frameworks<br>💬 Ask me about Flask and Data Science
+🔭I’m currently working on Python<br>👯 I’m looking to collaborate on Data Science<br>🤝 I’m looking for help with Deep Learning<br>🌱 I’m currently learning Python and it's frameworks<br>💬 Ask me about Machine Learning and Data Science
 
 
 ## 🌐 Socials:
