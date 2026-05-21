@@ -1,4 +1,5 @@
 # 👋🏻 Hi There !!
+# 🚀 Initializing Developer Profile...
 
 # 💫 About Me:
 🔭I’m currently working as AI APPLICATION DEVELOPER<br>👯 I’m looking to collaborate on Data Science<br>🤝 I’m looking for help with LLM,RAG, Agentic AI<br>🌱 I’m currently learning Agentic AI and it's frameworks<br>💬 Ask me about Machine Learning and Data Science
@@ -14,6 +15,8 @@
 ![](https://streak-stats.demolab.com/?user=nitesh-kumar-pandey&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nitesh-kumar-pandey&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nitesh-kumar-pandey&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
