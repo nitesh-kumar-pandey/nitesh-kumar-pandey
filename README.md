@@ -1,6 +1,6 @@
 # Hey <img width="45" src="waving_hand.gif"> Nice to see you ✨✨<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesh-kumar-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="nitesh-kumar-pandey" /> </p>
 
-<img src="banner2.jpg" alt="git"> 
+<img src="banner2.png" alt="git"> 
 
 <p align="center">
 </p>
