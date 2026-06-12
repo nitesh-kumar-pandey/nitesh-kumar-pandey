@@ -1,4 +1,4 @@
-
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4C1D95,25:5B21B6,50:6D28D9,75:7C3AED,100:8B5CF6&text=Nitesh%20Kumar%20Pandey&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Application%20Engineer%20%7C%20Software%20Engineer%20%7C%20Generative%20AI%20Specialist&descAlignY=58"/>
 
@@ -6,13 +6,7 @@
 
 <br/>
 
-![AI Engineer](https://img.shields.io/badge/AI%20Engineer-6D28D9?style=for-the-badge&logo=openai&logoColor=white)
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6D28D9?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-![Generative AI](https://img.shields.io/badge/Generative%20AI-6D28D9?style=for-the-badge)
-
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6D28D9?style=for-the-badge)
+![AI Engineer](https://img.shields.io/badge/AI%20Engineer-6D28D9?style=for-the-badge&logo=openai&logoColor=white)![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6D28D9?style=for-the-badge&logo=tensorflow&logoColor=white)![Generative AI](https://img.shields.io/badge/Generative%20AI-6D28D9?style=for-the-badge)![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6D28D9?style=for-the-badge)
 <br/>
 
 ![](https://img.shields.io/badge/Jaipur-Rajasthan,%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
