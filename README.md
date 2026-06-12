@@ -94,7 +94,7 @@ I enjoy designing enterprise solutions that bridge research and production, tran
 ## Cloud, DevOps & Tooling
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode" />
 </p>
 
 ## AI / Data Science
