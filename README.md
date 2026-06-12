@@ -32,7 +32,7 @@
 
 ---
 
-# About Me
+# 💫 About Me
 
 I am an **AI Application Engineer and Software Engineer** focused on building scalable, production-grade intelligent systems that solve real-world business challenges. My expertise spans **Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Machine Learning, Data Engineering, and Full Stack Development**.
 
@@ -62,7 +62,7 @@ I enjoy designing enterprise solutions that bridge research and production, tran
 
 ---
 
-# Tech Stack
+# 💻 Tech Stack
 
 ## Languages
 
@@ -263,7 +263,7 @@ Designing and developing enterprise AI solutions focused on Generative AI, machi
 
 ---
 
-# GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -285,7 +285,7 @@ Designing and developing enterprise AI solutions focused on Generative AI, machi
 
 ---
 
-# Contribution Activity
+# 📊 Contribution Activity
 
 <div align="center">
 
@@ -333,7 +333,7 @@ Open To:
 
 ---
 
-# Connect
+# 🌐 Connect
 
 <div align="center">
 
@@ -364,3 +364,6 @@ Open To:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:4C1D95,25:5B21B6,50:6D28D9,75:7C3AED,100:8B5CF6"/>
 
 </div>
+
+# ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
