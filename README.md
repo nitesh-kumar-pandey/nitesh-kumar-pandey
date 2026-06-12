@@ -6,7 +6,13 @@
 
 <br/>
 
-![AI Engineer](https://img.shields.io/badge/AI%20Engineer-6D28D9?style=for-the-badge&logo=openai&logoColor=white)![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6D28D9?style=for-the-badge&logo=tensorflow&logoColor=white)![Generative AI](https://img.shields.io/badge/Generative%20AI-6D28D9?style=for-the-badge)![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6D28D9?style=for-the-badge)
+![AI Engineer](https://img.shields.io/badge/AI%20Engineer-6D28D9?style=for-the-badge&logo=openai&logoColor=white)
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6D28D9?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+![Generative AI](https://img.shields.io/badge/Generative%20AI-6D28D9?style=for-the-badge)
+
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6D28D9?style=for-the-badge)
 <br/>
 
 ![](https://img.shields.io/badge/Jaipur-Rajasthan,%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
@@ -240,12 +246,26 @@ Designing and developing enterprise AI solutions focused on Generative AI, machi
 
 # Certifications
 
-| Provider | Certification |
-|-----------|---------------|
-| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) | Cloud Practitioner |
-| ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | Database Foundations |
-| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) | Networking Fundamentals |
-| ![NPTEL](https://img.shields.io/badge/NPTEL-6D28D9?style=for-the-badge) | Data Science & Machine Learning |
+### Microsoft
+
+![AI in Azure](https://img.shields.io/badge/AI%20In%20Azure-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![ML Solution](https://img.shields.io/badge/ML%20Solution%20Design-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![ML Models](https://img.shields.io/badge/Create%20ML%20Models-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### Generative AI & LLMs
+
+![LangChain](https://img.shields.io/badge/Introduction%20to%20LangChain-6D28D9?style=for-the-badge&logo=chainlink&logoColor=white)
+![Databricks](https://img.shields.io/badge/Generative%20AI%20Fundamentals-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+### Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Learning%20Docker-0A66C2?style=for-the-badge&logo=docker&logoColor=white)
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python%203.4.3%20Training-6D28D9?style=for-the-badge&logo=python&logoColor=white)
+
+**Provider:** IIT Bombay
 
 ---
 
