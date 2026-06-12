@@ -284,11 +284,9 @@ Designing and developing enterprise AI solutions focused on Generative AI, machi
 
 # GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nitesh-kumar-pandey&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nitesh-kumar-pandey&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" />
+</p>
 
 ---
 
