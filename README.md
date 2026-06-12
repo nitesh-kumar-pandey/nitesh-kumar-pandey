@@ -1,4 +1,4 @@
-<div align="center">
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4C1D95,25:5B21B6,50:6D28D9,75:7C3AED,100:8B5CF6&text=Nitesh%20Kumar%20Pandey&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Application%20Engineer%20%7C%20Software%20Engineer%20%7C%20Generative%20AI%20Specialist&descAlignY=58"/>
 
