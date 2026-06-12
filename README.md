@@ -6,13 +6,7 @@
 
 <br/>
 
-![AI Engineer](https://img.shields.io/badge/AI%20Engineer-6D28D9?style=for-the-badge&logo=openai&logoColor=white)
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6D28D9?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-![Generative AI](https://img.shields.io/badge/Generative%20AI-6D28D9?style=for-the-badge)
-
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6D28D9?style=for-the-badge)
+![AI Engineer](https://img.shields.io/badge/AI%20Engineer-6D28D9?style=for-the-badge&logo=openai&logoColor=white)![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6D28D9?style=for-the-badge&logo=tensorflow&logoColor=white)![Generative AI](https://img.shields.io/badge/Generative%20AI-6D28D9?style=for-the-badge)![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6D28D9?style=for-the-badge)
 <br/>
 
 ![](https://img.shields.io/badge/Jaipur-Rajasthan,%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
