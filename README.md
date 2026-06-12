@@ -5,8 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=1000&lines=AI+Application+Engineer;Software+Engineer;Generative+AI+%26+LLM+Systems+Developer;RAG+%7C+Agentic+AI+%7C+Machine+Learning;Building+Enterprise-Grade+AI+Solutions" alt="Typing SVG" />
 
 <br/>
-
-![](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge&logo=academia&logoColor=white)
 ![](https://img.shields.io/badge/AI%20Engineer-Generative%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
 ![](https://img.shields.io/badge/Data%20Science-Machine%20Learning-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white)
 
