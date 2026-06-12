@@ -361,9 +361,11 @@ Open To:
 
 ### "Engineering intelligent systems that transform ideas into scalable products."
 
+# ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:4C1D95,25:5B21B6,50:6D28D9,75:7C3AED,100:8B5CF6"/>
 
 </div>
 
-# ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
