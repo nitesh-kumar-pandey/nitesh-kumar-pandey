@@ -6,30 +6,27 @@
 
 <br/>
 
-![](https://img.shields.io/badge/AI%20Engineer-Generative%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
-![](https://img.shields.io/badge/Data%20Science-Machine%20Learning-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white)
+![AI Engineer](https://img.shields.io/badge/AI%20Engineer-6D28D9?style=for-the-badge&logo=openai&logoColor=white)
 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6D28D9?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+![Generative AI](https://img.shields.io/badge/Generative%20AI-6D28D9?style=for-the-badge)
+
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6D28D9?style=for-the-badge)
 <br/>
 
 ![](https://img.shields.io/badge/Jaipur-Rajasthan,%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/><br/>
 
-<a href="https://niteshpandey.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<p align="center">
 
-<a href="https://www.linkedin.com/in/niteshkumar-pandey">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?logo=vercel&logoColor=white)](https://niteshpandey.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niteshkumar-pandey)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:officialnitesh14@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/nitesh-kumar-pandey)
 
-<a href="mailto:officialnitesh14@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/nitesh-kumar-pandey">
-<img src="https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</p>
 
 <br/><br/>
 
@@ -105,12 +102,12 @@ I enjoy designing enterprise solutions that bridge research and production, tran
 
 <br/>
 
-![](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![](https://img.shields.io/badge/LangGraph-4C1D95?style=for-the-badge)
-![](https://img.shields.io/badge/FAISS-6D28D9?style=for-the-badge)
-![](https://img.shields.io/badge/Streamlit-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white)
-![](https://img.shields.io/badge/MLflow-8B5CF6?style=for-the-badge)
-![](https://img.shields.io/badge/OpenCV-4C1D95?style=for-the-badge&logo=opencv&logoColor=white)
+[![LangChain](https://img.shields.io/badge/LangChain-6D28D9?style=for-the-badge&logo=chainlink&logoColor=white)](#)
+[![LangGraph](https://img.shields.io/badge/LangGraph-6D28D9?style=for-the-badge&logo=graph&logoColor=white)](#)
+[![FAISS](https://img.shields.io/badge/FAISS-6D28D9?style=for-the-badge)](#)
+[![Streamlit](https://img.shields.io/badge/Streamlit-6D28D9?style=for-the-badge&logo=streamlit&logoColor=white)](#)
+[![MLflow](https://img.shields.io/badge/MLflow-6D28D9?style=for-the-badge)](#)
+[![OpenCV](https://img.shields.io/badge/OpenCV-6D28D9?style=for-the-badge&logo=opencv&logoColor=white)](#)
 
 ---
 
@@ -224,12 +221,11 @@ Designing and developing enterprise AI solutions focused on Generative AI, machi
 
 ### Skills
 
-![](https://img.shields.io/badge/Generative_AI-6D28D9?style=flat-square)
-![](https://img.shields.io/badge/LangChain-7C3AED?style=flat-square)
-![](https://img.shields.io/badge/FastAPI-8B5CF6?style=flat-square)
-![](https://img.shields.io/badge/RAG-4C1D95?style=flat-square)
-![](https://img.shields.io/badge/Python-6D28D9?style=flat-square)
-
+[![Generative AI](https://img.shields.io/badge/Generative%20AI-6D28D9?style=for-the-badge)](#)
+[![LangChain](https://img.shields.io/badge/LangChain-6D28D9?style=for-the-badge)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-6D28D9?style=for-the-badge&logo=fastapi&logoColor=white)](#)
+[![RAG](https://img.shields.io/badge/RAG-6D28D9?style=for-the-badge)](#)
+[![Python](https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white)](#)
 ---
 
 # Achievements
@@ -250,21 +246,12 @@ Designing and developing enterprise AI solutions focused on Generative AI, machi
 
 # Certifications
 
-## AWS
-
-![](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-## Oracle
-
-![](https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-## NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Data%20Science-6D28D9?style=for-the-badge)
-
-## Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+| Provider | Certification |
+|-----------|---------------|
+| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) | Cloud Practitioner |
+| ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | Database Foundations |
+| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) | Networking Fundamentals |
+| ![NPTEL](https://img.shields.io/badge/NPTEL-6D28D9?style=for-the-badge) | Data Science & Machine Learning |
 
 ---
 
@@ -282,11 +269,11 @@ Designing and developing enterprise AI solutions focused on Generative AI, machi
 
 ---
 
-# GitHub Trophies
+<!-- # GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nitesh-kumar-pandey&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4" />
-</p>
+</p> -->
 
 ---
 
