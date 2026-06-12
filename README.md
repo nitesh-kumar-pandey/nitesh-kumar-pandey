@@ -1,47 +1,375 @@
-# Hey <img width="45" src="waving_hand.gif"> Nice to see you ✨✨<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesh-kumar-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="nitesh-kumar-pandey" /> </p>
+<div align="center">
 
-<img src="banner2.png" alt="git"> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4C1D95,25:5B21B6,50:6D28D9,75:7C3AED,100:8B5CF6&text=Nitesh%20Kumar%20Pandey&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Application%20Engineer%20%7C%20Software%20Engineer%20%7C%20Generative%20AI%20Specialist&descAlignY=58"/>
 
-<p align="center">
-</p>
-<h3 align="center">🚩 Decoding the Future: Data Science and AI for the Next Generation 🚩
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=1000&lines=AI+Application+Engineer;Software+Engineer;Generative+AI+%26+LLM+Systems+Developer;RAG+%7C+Agentic+AI+%7C+Machine+Learning;Building+Enterprise-Grade+AI+Solutions" alt="Typing SVG" />
 
+<br/>
 
+![](https://img.shields.io/badge/AI%20Engineer-Generative%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
+![](https://img.shields.io/badge/Data%20Science-Machine%20Learning-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-<p align="center">
- <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
- <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="20" height="20"/>
- <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/>
- <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" width="20" height="20" /> 
- <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" alt="google cloud"  width="20" height="20" /> 
- <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker"  width="20" height="20" /> 
- <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch"  width="20" height="20" /> 
- <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow"  width="20" height="20" /> 
- <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cplusplus"  width="20" height="20" />
- <img src="https://img.icons8.com/dusk/48/000000/css3.png" alt="css3"  width="20" height="20" />
+<br/>
 
+![](https://img.shields.io/badge/Jaipur-Rajasthan,%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-# 💫 About Me:
-🔭I’m currently working as AI APPLICATION DEVELOPER<br>👯 I’m looking to collaborate on Data Science<br>🤝 I’m looking for help with LLM,RAG, Agentic AI<br>🌱 I’m currently learning Agentic AI and it's frameworks<br>💬 Ask me about Machine Learning and Data Science
+<br/><br/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__nitesh_1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/niteshkumarpandey11) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:pandeykumarnitesh14@gmail.com) 
+<a href="https://niteshpandey.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
+<a href="https://www.linkedin.com/in/niteshkumar-pandey">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nitesh-kumar-pandey&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=nitesh-kumar-pandey&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nitesh-kumar-pandey&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="mailto:officialnitesh14@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nitesh-kumar-pandey&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<a href="https://github.com/nitesh-kumar-pandey">
+<img src="https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/><br/>
+
+![](https://komarev.com/ghpvc/?username=nitesh-kumar-pandey&style=for-the-badge&color=6D28D9)
+![](https://img.shields.io/github/followers/nitesh-kumar-pandey?style=for-the-badge&color=7C3AED&labelColor=1E1B4B)
+![](https://img.shields.io/github/stars/nitesh-kumar-pandey?style=for-the-badge&color=8B5CF6&labelColor=1E1B4B)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nitesh-kumar-pandey&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# About Me
+
+I am an **AI Application Engineer and Software Engineer** focused on building scalable, production-grade intelligent systems that solve real-world business challenges. My expertise spans **Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Machine Learning, Data Engineering, and Full Stack Development**.
+
+I enjoy designing enterprise solutions that bridge research and production, transforming innovative AI concepts into reliable, maintainable, and impactful software products.
+
+### Core Strengths
+
+- Enterprise Software Engineering
+- Generative AI & Agentic AI Systems
+- LLM Application Development
+- Retrieval-Augmented Generation (RAG)
+- Machine Learning & MLOps
+- Backend & API Engineering
+- Full Stack Product Development
+- Cloud-Native Architecture
+- Data Engineering & Analytics
+- Open Source Collaboration
+
+### Open To
+
+- Software Engineering Opportunities
+- AI/ML Engineering Roles
+- Generative AI & LLM Projects
+- Open Source Collaborations
+- Product Engineering Teams
+- Research & Innovation Initiatives
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,r,mysql" />
+</p>
+
+## Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,tailwind,bootstrap" />
+</p>
+
+## Backend & Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,mongodb,mysql,sqlite" />
+</p>
+
+## Cloud, DevOps & Tooling
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode,postman" />
+</p>
+
+## AI / Data Science
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<br/>
+
+![](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![](https://img.shields.io/badge/LangGraph-4C1D95?style=for-the-badge)
+![](https://img.shields.io/badge/FAISS-6D28D9?style=for-the-badge)
+![](https://img.shields.io/badge/Streamlit-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white)
+![](https://img.shields.io/badge/MLflow-8B5CF6?style=for-the-badge)
+![](https://img.shields.io/badge/OpenCV-4C1D95?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|----------|----------|----------|
+| Generative AI | Expert | LLM Applications, RAG Pipelines, Agentic Workflows |
+| Machine Learning | Advanced | Regression, Classification, Clustering, Forecasting |
+| Deep Learning | Advanced | CNNs, Transfer Learning, Neural Networks |
+| Natural Language Processing | Advanced | Embeddings, Semantic Search, Information Retrieval |
+| MLOps | Intermediate | Model Deployment, Experiment Tracking, Monitoring |
+| Data Engineering | Advanced | ETL Pipelines, Data Processing, Analytics |
+| Computer Vision | Intermediate | Image Processing, Detection, Classification |
+| AI Product Development | Expert | End-to-End Production AI Systems |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>🏥 Hospital AI System</b></summary>
+
+### Production-Ready Hospital Triage & Resource Management Platform
+
+| Metric | Details |
+|---------|---------|
+| Stack | LangGraph, FastAPI, Streamlit, Python |
+| Scale | Multi-Agent Healthcare Workflow |
+| Performance | Low-Latency Decision Routing |
+| Security | Role-Based Access & API Security |
+| Impact | Improved Resource Allocation & Triage |
+| Repository | https://github.com/nitesh-kumar-pandey/hospital_ai_system |
+
+This project delivers an intelligent hospital management workflow powered by AI-driven triage, resource allocation, and decision support. The architecture leverages modern agent orchestration patterns and production-ready backend services.
+
+</details>
+
+<details>
+<summary><b>📚 InfoWave-AI</b></summary>
+
+### Enterprise Retrieval-Augmented Generation Platform
+
+| Metric | Details |
+|---------|---------|
+| Stack | LangChain, FAISS, Streamlit, Groq |
+| Scale | Multi-Document Knowledge Systems |
+| Performance | Optimized Semantic Retrieval |
+| Security | Controlled Knowledge Access |
+| Impact | Accelerated Knowledge Discovery |
+| Repository | https://github.com/nitesh-kumar-pandey/InfoWave-AI |
+
+A high-performance RAG platform enabling users to query PDFs and web content through intelligent retrieval pipelines, contextual search, and LLM-powered reasoning.
+
+</details>
+
+<details>
+<summary><b>🍽 Restaurant Rating Prediction System</b></summary>
+
+### End-to-End Machine Learning Prediction Platform
+
+| Metric | Details |
+|---------|---------|
+| Stack | Python, Scikit-Learn, Pandas, Streamlit |
+| Scale | Large Restaurant Review Datasets |
+| Performance | Optimized Feature Engineering |
+| Security | Data Validation Pipelines |
+| Impact | Business Intelligence Insights |
+| Repository | https://github.com/nitesh-kumar-pandey/restaurant_rating_predictio |
+
+This ML system predicts restaurant ratings using advanced feature engineering, exploratory analysis, and predictive modeling to support business decision-making.
+
+</details>
+
+<details>
+<summary><b>📖 Thank You Book For Friend</b></summary>
+
+### Interactive Digital Experience
+
+| Metric | Details |
+|---------|---------|
+| Stack | HTML, CSS, JavaScript |
+| Scale | Interactive Frontend Application |
+| Performance | Lightweight & Responsive |
+| Security | Client-Side Best Practices |
+| Impact | Enhanced User Engagement |
+| Repository | https://github.com/nitesh-kumar-pandey/Thank-You-Book-for-Friend |
+
+An interactive storytelling and appreciation experience demonstrating frontend engineering, UI design, and engaging user interactions.
+
+</details>
+
+---
+
+# Experience
+
+## AI Application Engineer | VirtuoWhiz Consulting Pvt. Ltd.
+
+**Duration:** Present
+
+Designing and developing enterprise AI solutions focused on Generative AI, machine learning, and intelligent automation systems.
+
+### Scope of Work
+
+- Building production-grade LLM applications
+- Developing RAG architectures
+- Designing scalable FastAPI services
+- Creating AI-powered business workflows
+- Integrating vector databases and semantic search
+- Deploying AI solutions for real-world use cases
+
+### Skills
+
+![](https://img.shields.io/badge/Generative_AI-6D28D9?style=flat-square)
+![](https://img.shields.io/badge/LangChain-7C3AED?style=flat-square)
+![](https://img.shields.io/badge/FastAPI-8B5CF6?style=flat-square)
+![](https://img.shields.io/badge/RAG-4C1D95?style=flat-square)
+![](https://img.shields.io/badge/Python-6D28D9?style=flat-square)
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|-------------|---------|
+| AI Application Engineer | Building production-grade Generative AI solutions |
+| Open Source Contributor | Active GitHub project development |
+| ML Practitioner | Applied Machine Learning across multiple domains |
+| RAG Specialist | Developed enterprise retrieval systems |
+| Product Builder | Delivered end-to-end AI applications |
+
+</div>
+
+---
+
+# Certifications
+
+## AWS
+
+![](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+## Oracle
+
+![](https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+## NPTEL
+
+![](https://img.shields.io/badge/NPTEL-Data%20Science-6D28D9?style=for-the-badge)
+
+## Cisco
+
+![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nitesh-kumar-pandey&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh-kumar-pandey&theme=midnight-purple&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitesh-kumar-pandey&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nitesh-kumar-pandey&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nitesh-kumar-pandey&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nitesh-kumar-pandey/nitesh-kumar-pandey/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Agentic AI
+  - Multi-Agent Systems
+  - Advanced RAG Architectures
+  - AI Infrastructure
+
+Building:
+  - Enterprise LLM Applications
+  - Intelligent Automation Platforms
+  - Production AI Systems
+  - Knowledge Retrieval Engines
+
+Exploring:
+  - AI Agents
+  - Graph-Based Workflows
+  - MLOps Ecosystems
+  - Scalable Cloud Architectures
+
+Open To:
+  - Software Engineering Roles
+  - AI Engineering Opportunities
+  - Open Source Contributions
+  - Technical Collaborations
+```
+
+---
+
+# Connect
+
+<div align="center">
+
+<a href="mailto:officialnitesh14@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/niteshkumar-pandey">
+<img src="https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/nitesh-kumar-pandey">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://niteshpandey.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Explore-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### "Engineering intelligent systems that transform ideas into scalable products."
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:4C1D95,25:5B21B6,50:6D28D9,75:7C3AED,100:8B5CF6"/>
+
+</div>
