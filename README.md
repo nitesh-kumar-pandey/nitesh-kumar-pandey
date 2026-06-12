@@ -105,7 +105,7 @@ I enjoy designing enterprise solutions that bridge research and production, tran
 
 ---
 
-# AI / ML Expertise
+# 🤖  AI / ML Expertise
 
 | Domain | Proficiency | Details |
 |----------|----------|----------|
@@ -120,7 +120,7 @@ I enjoy designing enterprise solutions that bridge research and production, tran
 
 ---
 
-# Featured Projects
+# 🚀  Featured Projects
 
 <details>
 <summary><b>🏥 Hospital AI System</b></summary>
@@ -196,7 +196,7 @@ An interactive storytelling and appreciation experience demonstrating frontend e
 
 ---
 
-# Experience
+# 💼 Experience
 
 ## AI Application Engineer | VirtuoWhiz Consulting Pvt. Ltd.
 
@@ -222,7 +222,7 @@ Designing and developing enterprise AI solutions focused on Generative AI, machi
 [![Python](https://img.shields.io/badge/Python-6D28D9?style=for-the-badge&logo=python&logoColor=white)](#)
 ---
 
-# Achievements
+# 🏆 Achievements
 
 <div align="center">
 
@@ -238,7 +238,7 @@ Designing and developing enterprise AI solutions focused on Generative AI, machi
 
 ---
 
-# Certifications
+# 📜 Certifications
 
 ### Microsoft
 
@@ -295,7 +295,7 @@ Designing and developing enterprise AI solutions focused on Generative AI, machi
 
 ---
 
-# Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nitesh-kumar-pandey/nitesh-kumar-pandey/output/github-contribution-grid-snake-dark.svg" />
@@ -303,7 +303,7 @@ Designing and developing enterprise AI solutions focused on Generative AI, machi
 
 ---
 
-# Current Focus
+# 🎯 Current Focus
 
 ```yaml
 Learning:
