@@ -302,11 +302,9 @@ Designing and developing enterprise AI solutions focused on Generative AI, machi
 
 # Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/nitesh-kumar-pandey/nitesh-kumar-pandey/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nitesh-kumar-pandey/nitesh-kumar-pandey/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
